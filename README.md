@@ -1,5 +1,5 @@
 # weather-forecast-project
-# as i am developing this website to upskill myself and to get knowledge about software development.
+# as i am developing this website to upskill myself and to get knowledge about software development(API usecase).
 Todays Weather app is a web application which will tell the users about the weather details of any particular city .
 The easy and Interactive User Interface will help our users to easily know about the temperature , wind speed , humidity and description about the weather .
 
